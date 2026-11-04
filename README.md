@@ -22,9 +22,3 @@ This capstone deliverable consolidates the entire TelePulse AI initiative into a
 
 ### Tools & Technologies
 Python 3.13 · Pandas · Matplotlib · Seaborn · python-docx · Plotly
-
-### How to Regenerate
-```bash
-pip install python-docx matplotlib seaborn numpy
-python generate_week4_doc.py
-```
